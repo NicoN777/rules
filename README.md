@@ -145,6 +145,8 @@ Response if rule has not been met:
     "data": "Rule not met",
     "message": "OK"
 }`
+
+
 Before creating the image make sure to include your twilio sid and token in 
 api.properties file, as well as your sender number for twilio and phone numbers
 to receive the notification(s)
