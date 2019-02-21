@@ -165,7 +165,7 @@ iser3=+1anothernumba`
 to build the image:
 `docker build --tag=rulesapi:v0.0.1 .`
 to run the container:
-`docker run -p 4000:4000 rulesapi:v0.0.1`
+`docker run -p 4000:11011 rulesapi:v0.0.1`
 
 
 
