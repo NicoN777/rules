@@ -1,0 +1,11 @@
+insert into sensor (id, name, location, is_active) values(1,'NAN25RX','Living Room',1);
+insert into sensor (id, name, location, is_active) values(2,'NAN25RX','Kitchen',1);
+insert into sensor (id, name, location, is_active) values(3,'NAN25RX','Game Room',1);
+insert into sensor (id, name, location, is_active) values(4,'QRX90RP','Baby Room',1);
+insert into sensor (id, name, location, is_active) values(6,'QRX90RP','Storage Room',0);
+insert into sensor (id, name, location, is_active) values(7,'QRX90RP','Pantry',0);
+insert into sensor (id, name, location, is_active) values(8,'QRX90RP','Guest Room',1);
+insert into sensor (id, name, location, is_active) values(9,'NANR777','Master Room',0);
+insert into sensor (id, name, location, is_active) values(10,'NANR777','Media Room',1);
+insert into sensor (id, name, location, is_active) values(11,'QRX90RP','Wine Room',1);
+insert into sensor (id, name, location, is_active) values(12,'NANR777','Cigar Room',1);
